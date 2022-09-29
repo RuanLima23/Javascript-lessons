@@ -6,7 +6,7 @@ let tamanhoTelaHorizontal = 155;
 let tamanhoTelaVertical = 75;
 let capacidadeBateria = 5000;
 
-// Podemos colocar funções dentro de objetos, portanto onjetos não se limitam apenas a propriedades
+// Podemos colocar funções dentro de objetos, portanto objetos não se limitam apenas a propriedades
 const celular = {
     marcaCelular : 'XIAOMI',
     tamanhoTela : {
